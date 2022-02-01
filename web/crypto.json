@@ -1,0 +1,8 @@
+[
+  {"idCrypto":"1","nom":"Bitcoin","symbole":"BTC","dateCreation":"03/01/2009","createur":"Satoshi Nakamoto","minable":"Oui"},
+  {"idCrypto":"2","nom":"Ethereum","symbole":"ETH","dateCreation":"30/07/2015","createur":"Vitalik Buterin","minable":"Oui"},
+  {"idCrypto":"3","nom":"Ripple","symbole":"XRP","dateCreation":"2012","createur":"Arthur Britto","minable":"Non"},
+  {"idCrypto":"4","nom":"Litecoin","symbole":"LTC","dateCreation":"07/10/2011","createur":"Charles Lee","minable":"Oui"},
+  {"idCrypto":"5","nom":"Dash","symbole":"DASH","dateCreation":"18/01/2014","createur":"Evan Duffield","minable":"Oui"}
+]
+
