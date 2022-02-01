@@ -11,7 +11,7 @@ class CryptoControllers
     }
 
     public function read(){
-        $infos
+        $infos;
         $this->vue = render('ViewRead',$infos);
     }
 }
